@@ -7,8 +7,8 @@ Hi, I am rijul sharma aka xxxwarmachineroxxx aka lucifer/lucifer.nft/lucifer_is_
 
 ## Socials
 - <a href="https://github.com/xxXWarMachineRoXxx"><img width="32" alt="github-social" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg"> xxXWarMachineRoXxxx</a>
-- <a href=https://www.instagram.com/lucifer.nft/><img width="32" alt="image" src="https://github.com/xxXWarMachineRoXxx/xxXWarMachineRoXxx.github.io/assets/47086987/342981cb-84ff-47e4-8388-eb5c93c7e806"> lucifer.nft</a>
-
+- <a href="https://www.instagram.com/lucifer.nft/"><img width="32" alt="image" src="https://github.com/rdimascio/icons/blob/master/icons/color/github.svg"> lucifer.nft</a>
+- <a href="https://www.instagram.com/lucifer.nft/"><img width="32" alt="image" src="https://github.com/rdimascio/icons/blob/master/icons/color/linkedin.svg"> lucifer.nft</a>
 
 
 ## Current page link 
