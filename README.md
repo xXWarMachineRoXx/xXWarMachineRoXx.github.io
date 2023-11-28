@@ -18,7 +18,7 @@ Hi, I am rijul sharma aka xxxwarmachineroxxx aka lucifer/lucifer.nft/lucifer_is_
 ## 💼 Portfolio
 
 ### 🌊 morphling.xyz
-<img width="982" alt="image" src="/assets/47086987/95bb0334-e844-4462-a158-acf8e38457a7">
+<img width="982" alt="image" src="https://github.com/xxXWarMachineRoXxx/xxXWarMachineRoXxx.github.io/assets/47086987/95bb0334-e844-4462-a158-acf8e38457a7">
 
 🌐 [morphling.xyz - The best liquid blog for devs](morphling.xyz)
 
