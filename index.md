@@ -22,13 +22,29 @@
 - <a href="https://www.linkedin.com/in/r1jul-sharma/"><img width="32" alt="linkedin-social" src="https://github.com/rdimascio/icons/blob/master/icons/color/linkedin.svg"> lucifer.nft</a>
 
 
-## 📌 Current page link / You are here
-
-
 ## 💼 Portfolio
 
+### Balance Pilates [🔗 Link ](https://xxwarmachineroxx.github.io/balancepilates/)
+
+Largest #Pilates studio in #Delhi NCR (Guragon📍Def Col📍Vikas Marg)
+
+![image](https://github.com/xXWarMachineRoXx/xXWarMachineRoXx.github.io/assets/47086987/499f3d2b-840f-428d-9f74-474c6bd7eecc)
+
+
+Visit 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilates/)
+
+
+- 🧑‍💻 [Github - BalancePilates](https://github.com/xXWarMachineRoXx/balancepilates/) 
+- 📸 [Instagram- balancepilates](https://www.instagram.com/balancepilatesindia/?hl=en)
+- 🎨 [Behance - balancepilates](https://www.behance.net/gallery/148950261/Balance-Pilates)
+
+
+## 👷‍♂️ WIP/ Abandonware
 ### 🌊 morphling.xyz
 <img width="982" alt="image" src="https://github.com/xxXWarMachineRoXxx/xxXWarMachineRoXxx.github.io/assets/47086987/95bb0334-e844-4462-a158-acf8e38457a7">
 
-🌐 [morphling.xyz - The best liquid blog for devs](morphling.xyz)
+Visit 🌐 [morphling.xyz - The best liquid blog for devs](morphling.xyz)
+
+
+
 
