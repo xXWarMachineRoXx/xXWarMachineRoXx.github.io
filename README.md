@@ -3,7 +3,7 @@
 
 # About me 
 
-Hi, I am rijul sharma aka xxxwarmachineroxxx aka lucifer/lucifer.nft/lucifer_is_back
+Hi, I am rijul sharma aka xxwarmachineroxx aka lucifer/lucifer.nft/lucifer_is_back
 
 ## 🧑‍💻Socials
 
