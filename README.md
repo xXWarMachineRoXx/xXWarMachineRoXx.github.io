@@ -3,7 +3,12 @@
 
 # About me 
 
-Hi, I am rijul sharma aka xxwarmachineroxx aka lucifer/lucifer.nft/lucifer_is_back
+- 👋 Hi, I’m @xXWarMachineRoXx aka rijul sharma aka xxxwarmachineroxxx aka lucifer/lucifer.nft/lucifer_is_back
+- 👀 I’m interested in AI/Machine learning and stuff that people only can dream of and making that a reality
+- 🌱 I’m currently working as an Azure Solutions architect @Foetron
+- 💞️ I’m looking to collaborate on an LLM entitiy matching and replacment project
+- 🌐 Visit Home to see all my works and socials
+- 📫 How to reach me? Mail me at : rijul123.sharma@outlook.com
 
 ## 🧑‍💻Socials
 
@@ -12,10 +17,15 @@ Hi, I am rijul sharma aka xxwarmachineroxx aka lucifer/lucifer.nft/lucifer_is_ba
 - <a href="https://www.linkedin.com/in/r1jul-sharma/"><img width="32" alt="linkedin-social" src="https://github.com/rdimascio/icons/blob/master/icons/color/linkedin.svg"> lucifer.nft</a>
 
 
-## 📌 Current page link / You are here
-🔗 https://github.com/xxXWarMachineRoXxx/xxXWarMachineRoXxx.github.io
-
 ## 💼 Portfolio
+
+### Balance Pilates
+Largest #Pilates studio in #Delhi NCR (Guragon📍Def Col📍Vikas Marg)
+![image](https://github.com/xXWarMachineRoXx/xXWarMachineRoXx.github.io/assets/47086987/499f3d2b-840f-428d-9f74-474c6bd7eecc)
+
+- 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilates/)
+- 📸 [Instagram- balancepilates](https://www.instagram.com/balancepilatesindia/?hl=en)
+- 🎨 [Behance - balancepilates](https://www.behance.net/gallery/148950261/Balance-Pilates)
 
 ### 🌊 morphling.xyz
 <img width="982" alt="image" src="https://github.com/xxXWarMachineRoXxx/xxXWarMachineRoXxx.github.io/assets/47086987/95bb0334-e844-4462-a158-acf8e38457a7">
