@@ -19,12 +19,15 @@
 
 ## 💼 Portfolio
 
-### Balance Pilates
+### Balance Pilates 
+
 Largest #Pilates studio in #Delhi NCR (Guragon📍Def Col📍Vikas Marg)
+
+Visit 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilates/)
+
 ![image](https://github.com/xXWarMachineRoXx/xXWarMachineRoXx.github.io/assets/47086987/499f3d2b-840f-428d-9f74-474c6bd7eecc)
 
 - 🧑‍💻 [Github - BalancePilates](https://github.com/xXWarMachineRoXx/balancepilates/) 
-- 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilates/)
 - 📸 [Instagram- balancepilates](https://www.instagram.com/balancepilatesindia/?hl=en)
 - 🎨 [Behance - balancepilates](https://www.behance.net/gallery/148950261/Balance-Pilates)
 
