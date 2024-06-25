@@ -36,3 +36,14 @@ Visit 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilat
 
 🌐 [morphling.xyz - The best liquid blog for devs](morphling.xyz)
 
+
+### 🌱 Innate Corp
+![Innate Corp Front Page](https://github.com/xXWarMachineRoXx/xXWarMachineRoXx.github.io/assets/47086987/1cc61ea4-6d3e-40be-87aa-b692c359f190)
+
+- 🧑‍💻 [Github - BalancePilates](https://github.com/xXWarMachineRoXx/balancepilates/) 
+- 📸 [Instagram- innatecorp](https://www.instagram.com/innate_corp/)
+- 🎨 [Figma file - innatecorp] (https://www.figma.com/design/ZsZwzrOhrTfRnmpieFwMwe/Innate-Internal-pages?node-id=0-1&t=cmAWWAyUohy3Kwyr-1)
+
+
+🌐 [InnateCorp - We offer customized strategies based on business need for optimum growth](morphling.xyz)
+
