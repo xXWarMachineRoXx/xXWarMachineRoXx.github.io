@@ -42,8 +42,8 @@ Visit 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilat
 
 - 🧑‍💻 [Github - BalancePilates](https://github.com/xXWarMachineRoXx/balancepilates/) 
 - 📸 [Instagram- innatecorp](https://www.instagram.com/innate_corp/)
-- 🎨 [Figma file - innatecorp] (https://www.figma.com/design/ZsZwzrOhrTfRnmpieFwMwe/Innate-Internal-pages?node-id=0-1&t=cmAWWAyUohy3Kwyr-1)
+- 🎨 [Figma file - innatecorp](https://www.figma.com/design/ZsZwzrOhrTfRnmpieFwMwe/Innate-Internal-pages?node-id=0-1&t=cmAWWAyUohy3Kwyr-1)
 
 
-🌐 [InnateCorp - We offer customized strategies based on business need for optimum growth](morphling.xyz)
+🌐 [InnateCorp - We offer customized strategies based on business need for optimum growth](https://xxwarmachineroxx.github.io/innate-corp-react-app/)
 
