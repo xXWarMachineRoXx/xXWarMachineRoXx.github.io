@@ -38,6 +38,28 @@ Visit 🌐 [balancepilatesindia](https://xxwarmachineroxx.github.io/balancepilat
 - 📸 [Instagram- balancepilates](https://www.instagram.com/balancepilatesindia/?hl=en)
 - 🎨 [Behance - balancepilates](https://www.behance.net/gallery/148950261/Balance-Pilates)
 
+### 🌱 Innate Corp
+![Innate Corp Front Page](https://github.com/xXWarMachineRoXx/xXWarMachineRoXx.github.io/assets/47086987/1cc61ea4-6d3e-40be-87aa-b692c359f190)
+
+- 🧑‍💻 [Github - InnateCorp](https://github.com/xXWarMachineRoXx/balancepilates/) 
+- 📸 [Instagram- innatecorp](https://www.instagram.com/innate_corp/)
+- 🎨 [Figma file - innatecorp](https://www.figma.com/design/ZsZwzrOhrTfRnmpieFwMwe/Innate-Internal-pages?node-id=0-1&t=cmAWWAyUohy3Kwyr-1)
+
+
+🌐 [InnateCorp - We offer customized strategies based on business need for optimum growth](https://xxwarmachineroxx.github.io/innate-corp-react-app/)
+
+### 💻 Mair Enterprises 
+<img width="1265" alt="image" src="https://github.com/user-attachments/assets/813fa44c-c7b5-4616-9471-e88b2032ddc3">
+
+
+- 🧑‍💻 [Github - Mair Enterprises](https://github.com/xXWarMachineRoXx/MairEnterprises) 
+- 📸 [Instagram- Mair Enterprises](https://www.instagram.com/mairenterprises/)
+- 🎨 [Figma file - Mair Enterprises](https://www.figma.com/design/nLJ683R5K4EmYWgAAteg2y/Mair-Enterprises-(home)?node-id=0-1&t=Xtzq0oTBJwZY656w-0)
+
+
+🌐 [MairEnterprises - Your Technology Partner](https://www.instagram.com/mairenterprises/)
+
+---
 
 ## 👷‍♂️ WIP/ Abandonware
 ### 🌊 morphling.xyz
