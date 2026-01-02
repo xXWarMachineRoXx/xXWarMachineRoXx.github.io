@@ -6,6 +6,8 @@
 - [You're here](https://github.com/xxXWarMachineRoXxx/xxXWarMachineRoXxx.github.io)
 - [AI Projects # coming soon](#)
 
+# Happy New year 🎉
+
 # About me 
 
 - 👋 Hi, I’m @xXWarMachineRoXx aka rijul sharma aka xxxwarmachineroxxx aka lucifer/lucifer.nft/lucifer_is_back
